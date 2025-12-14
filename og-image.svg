@@ -1,0 +1,45 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#0ea5e9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Grid pattern -->
+  <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+    <path d="M 60 0 L 0 0 0 60" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="150" cy="150" r="200" fill="rgba(99,102,241,0.1)"/>
+  <circle cx="1050" cy="480" r="250" fill="rgba(14,165,233,0.08)"/>
+
+  <!-- Logo -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#textGrad)">Gemsol</text>
+
+  <!-- Main headline -->
+  <text x="100" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#f8fafc">Software simple.</text>
+  <text x="100" y="370" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="url(#textGrad)">Impacto extraordinario.</text>
+
+  <!-- Subtitle -->
+  <text x="100" y="450" font-family="Arial, sans-serif" font-size="28" fill="#64748b">Desarrollo de software y automatizaciones con IA</text>
+
+  <!-- Accent line -->
+  <rect x="100" y="500" width="200" height="4" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- URL -->
+  <text x="100" y="570" font-family="Arial, sans-serif" font-size="24" fill="#64748b">gemsol.io</text>
+</svg>

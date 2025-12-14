@@ -1,0 +1,111 @@
+# Gemsol
+
+> Empresa de tecnología especializada en desarrollo de software y automatizaciones con inteligencia artificial.
+
+## Resumen
+
+Gemsol es una empresa de tecnología que desarrolla software simple con alto impacto de manera rápida y ágil. Nos especializamos en soluciones AI-First que utilizan LLMs, RAG (Retrieval-Augmented Generation), agentes autónomos y automatizaciones inteligentes para crear valor real para los negocios.
+
+**Slogan:** Software simple. Impacto extraordinario.
+
+## Servicios
+
+### Agentes Inteligentes
+Desarrollamos agentes de soporte y ventas con arquitectura RAG (Retrieval-Augmented Generation) que acceden a knowledge bases en tiempo real. Estos agentes utilizan LLMs (Large Language Models) para proporcionar respuestas precisas con contexto específico del negocio del cliente.
+
+**Tecnologías:** OpenAI GPT-4, Claude, embeddings, vector databases (Pinecone, Weaviate, pgvector)
+
+### Bots & WhatsApp Business
+Automatizaciones conversacionales multi-canal con integración nativa a WhatsApp Business API. Implementamos workflows inteligentes que:
+- Califican leads automáticamente
+- Responden consultas frecuentes
+- Escalan a agentes humanos cuando es necesario
+- Procesan pagos y reservas
+
+**Tecnologías:** WhatsApp Business API, Twilio, custom webhooks, n8n
+
+### Knowledge Base + Chat
+Sistemas de consulta semántica sobre documentación empresarial usando embeddings y vector databases. Permiten que equipos internos y clientes obtengan respuestas instantáneas de:
+- Manuales de procedimientos
+- Políticas internas
+- Documentación técnica
+- FAQs extensas
+
+**Tecnologías:** RAG pipelines, semantic search, embeddings (OpenAI, Cohere), vector stores
+
+### CRM Personalizado
+Plataformas CRM a medida con:
+- Pipelines de venta configurables
+- Scoring predictivo de leads con ML
+- Automatización de seguimiento
+- Integraciones con stack existente vía APIs y webhooks
+- Dashboards y reportes en tiempo real
+
+**Tecnologías:** Next.js, React, PostgreSQL, APIs RESTful, webhooks
+
+### Automatización de Procesos
+Orquestación de workflows empresariales con herramientas low-code y scripts custom:
+- Conexión de ERPs, CRMs y hojas de cálculo
+- Integración con APIs externas
+- Flujos que operan 24/7 sin intervención manual
+- Alertas y notificaciones inteligentes
+
+**Tecnologías:** n8n, Make (Integromat), Python scripts, cron jobs, serverless functions
+
+### MVPs en Semanas
+Desarrollo rápido de productos mínimos viables:
+- Stack moderno: Next.js, React, Node.js, PostgreSQL
+- Deploy en cloud (Vercel, AWS, Cloudflare)
+- Validación con usuarios reales
+- Arquitectura preparada para escalar
+
+## Stack Tecnológico
+
+### Inteligencia Artificial
+- Large Language Models (GPT-4, Claude, Llama)
+- RAG (Retrieval-Augmented Generation)
+- Embeddings y búsqueda semántica
+- Vector databases (Pinecone, Weaviate, pgvector)
+- Fine-tuning de modelos
+
+### Desarrollo
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js, Python, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis
+- APIs: REST, GraphQL, WebSockets
+
+### Infraestructura
+- Cloud: AWS, GCP, Cloudflare
+- Serverless: Vercel, AWS Lambda
+- Containers: Docker, Kubernetes
+- CI/CD: GitHub Actions
+
+### Automatización
+- n8n, Make (Integromat)
+- WhatsApp Business API
+- Custom webhooks y scripts
+- Cron jobs y schedulers
+
+## Casos de Uso Implementados
+
+1. **Agente de Soporte 24/7** - Bot con RAG que responde consultas técnicas accediendo a documentación interna
+2. **Agente de Ventas WhatsApp** - Calificación automática de leads y agendamiento de demos
+3. **CRM para Inmobiliaria** - Pipeline personalizado con scoring de prospectos
+4. **Knowledge Base Interna** - Chat sobre políticas y procedimientos de empresa de 500+ empleados
+5. **Automatización de Reportes** - Generación y envío automático de informes diarios desde múltiples fuentes
+
+## Propuesta de Valor
+
+- **AI-First:** Cada solución aprovecha inteligencia artificial donde agrega valor real
+- **Entregas rápidas:** De concepto a producción en semanas, no meses
+- **Arquitectura escalable:** Código limpio y sistemas preparados para crecer
+- **Integración nativa:** Conectamos con tu stack existente sin fricciones
+
+## Contacto
+
+- **Website:** https://gemsol.io
+- **Formulario de contacto:** https://gemsol.io/#contacto
+
+## Ubicación
+
+Latinoamérica (servicios remotos disponibles globalmente)
